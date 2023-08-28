@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="product_name_color">#adb8d3</color>
+    <color name="label_color">#bbbbbb</color>
+    <color name="drop_ratio_bg_color">#ea0023</color>
+    <color name="vertical_list_bg_color">#f1f4f6</color>
+    <color name="badge_bg_color">#fdf8cf</color>
+    <color name="shipping_color">#63a060</color>
+    <color name="rating_progress_color">#fec111</color>
+</resources>
